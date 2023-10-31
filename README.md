@@ -1,0 +1,12 @@
+# React Facts
+This is a class example from Scrimba "Learn React" course 
+
+## Design
+This is the [design](./src/assets/design.png) of the web page I'll be doing.
+
+## Technologies
+This example was created using:
+* React
+
+## Live Preview
+[Dashboard](https://erasmorojastech.github.io/AdminDashboard-TOP/)
