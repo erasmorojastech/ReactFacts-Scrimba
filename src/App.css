@@ -1,0 +1,12 @@
+#root {
+  width: 550px;
+  height: 550px;
+  font-family: 'Inter', sans-serif;
+
+  /* Colors */
+  --navBg: #21222a;
+  --mainContentBg: #282d35;
+  --aqua: #61dafb;
+  --lightGray: #deebf8;
+  --white: #ffffff;
+}
