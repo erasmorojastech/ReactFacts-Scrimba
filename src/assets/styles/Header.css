@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 91px;
+  gap: 50px;
+  background-color: var(--navBg);
+}
+
+nav > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+nav > div > img {
+  width: 30px;
+  height: 30px;
+}
+
+nav > div > h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--aqua);
+}
+
+nav > h2 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--lightGray)
+}
